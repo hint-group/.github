@@ -6,7 +6,7 @@ Our research focuses on advancing the frontiers of trustworthy machine learning 
 
 Our research spans four interconnected areas:
 
-- **Heterogeneous Machine Learning:** Understanding the generalizability and transferability of AI/ML models across diverse data types, tasks, and domains.
-- **Trustworthy Machine Learning**: Improving the trustworthiness of foundation models throughout post-training and real-world deployment.
-- **Graph Machine Learning:** — Bridging the gap between graph limit theory and graph machine learning.
+- **Heterogeneous Machine Learning:** Understanding the generalizability of AI/ML models across data types, tasks, and domains.
+- **Trustworthy Machine Learning**: Improving the safety of foundation models throughout post-training and real-world deployment.
+- **Graph Machine Learning:** Bridging the gap between graph limit theory and graph machine learning.
 - **AI for Math:** Advancing the capability of AI models in mathematical reasoning, from theorem proving to conjecture discovery.

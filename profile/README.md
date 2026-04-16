@@ -8,33 +8,11 @@ Our research focuses on advancing the frontiers of trustworthy machine learning 
 
 ### 🧠 Research Areas
 
-- ⚙️ Heterogeneous Machine Learning
+- **⚙️ Heterogeneous Machine Learning:** Understanding the generalizability of AI models across data types, tasks, and domains.
+- **🛡️ Trustworthy Machine Learning:** Improving the safety of foundation models throughout post-training and real-world deployment.
+- **🕸️ Graph Machine Learning:** Briding the gap between graph limit theory and graph machine learning.
+- **➗ AI for Math:** Advancing the capability of AI models in mathematical reasoning.
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>⚙️ Heterogeneous Machine Learning</h3>
-      Building methods that work reliably across data from different sources, formats, and distributions.
-    </td>
-    <td width="50%" valign="top">
-      <h3>🛡️ Trustworthy Machine Learning</h3>
-      Making models more robust, fair, interpretable, and honest about uncertainty.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🕸️ Graph Machine Learning</h3>
-      Learning from relational data such as social networks, molecules, and knowledge graphs.
-    </td>
-    <td width="50%" valign="top">
-      <h3>➗ AI for Mathematics</h3>
-      Using AI to assist with mathematical reasoning, problem solving, and formal proofs.
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-## 📬 Join Us
+### 📬 Join Us
 
 > **We are always recruiting** motivated PhD students, MS students, and undergraduate researchers who are passionate about machine learning research.

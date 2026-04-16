@@ -6,13 +6,7 @@ Our research focuses on advancing the frontiers of trustworthy machine learning 
 
 Our research spans four interconnected areas:
 
-- **Heterogeneous Machine Learning** — building methods that work reliably across data from different sources, formats, and distributions.
-- **Trustworthy Machine Learning** — making models more robust, fair, interpretable, and honest about uncertainty.
-- **Graph Machine Learning** — learning from relational data such as social networks, molecules, and knowledge graphs.
-- **AI for Mathematics** — using AI to assist with mathematical reasoning, problem solving, and formal proofs.
-
----
-
-<div align="center">
-<sub>© HINT Lab · Department of Computer Science & Engineering · Michigan State University · East Lansing, MI</sub>
-</div>
+- **Heterogeneous Machine Learning:** Understanding the generalizability and transferability of AI/ML models across diverse data types, tasks, and domains.
+- **Trustworthy Machine Learning**: Improving the trustworthiness of foundation models throughout post-training and real-world deployment.
+- **Graph Machine Learning:** — Bridging the gap between graph limit theory and graph machine learning.
+- **AI for Math:** Advancing the capability of AI models in mathematical reasoning, from theorem proving to conjecture discovery.

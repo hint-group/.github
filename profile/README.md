@@ -8,6 +8,8 @@ Our research focuses on advancing the frontiers of trustworthy machine learning 
 
 ### 🧠 Research Areas
 
+- ⚙️ Heterogeneous Machine Learning
+
 <table>
   <tr>
     <td width="50%" valign="top">

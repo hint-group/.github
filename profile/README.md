@@ -8,9 +8,9 @@
 # Welcome to the Heterogeneous Machine Intelligence (HINT) Lab!
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Lab%20Website-18453B?style=flat-square&logoColor=white" /></a>
+  <a href="https://junwu6.github.io/lab"><img src="https://img.shields.io/badge/Lab%20Website-18453B?style=flat-square&logoColor=white" /></a>
   &nbsp;
-  <a href="#"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white" /></a>
+  <a href="https://scholar.google.com/citations?hl=en&user=TZXUS-oAAAAJ&view_op=list_works&sortby=pubdate"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white" /></a>
   &nbsp;
   <a href="mailto:hintlab@msu.edu"><img src="https://img.shields.io/badge/Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
   &nbsp;

@@ -2,7 +2,7 @@
 
 ### 🔬 About
 
-Our research focuses on advancing the frontiers of trustworthy machine learning and artificial intelligence in heterogeneous data environments. We are part of the [Department of Computer Science and Engineering](https://engineering.msu.edu/departments/cse) at [Michigan State University](https://msu.edu).
+Our research focuses on advancing the frontiers of trustworthy machine learning and artificial intelligence in heterogeneous data environments. Our work sits at the intersection of two complementary perspectives: using mathematical tools to understand AI and using AI to advance mathematics. This dual perspective stems from a simple conviction that AI requires both rigorous mathematical foundations and an open curiosity for what AI can uncover. We are part of the [Department of Computer Science and Engineering](https://engineering.msu.edu/departments/cse) at [Michigan State University](https://msu.edu).
 
 ### 🧠 Research Areas
 
